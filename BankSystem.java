@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class BankSystem {
     private static final String DB_URL = "jdbc:mysql://localhost:3306/bank_db";
-    private static final String USER = "root";
+    private static final String USER = "DB_User name";
     private static final String PASS = "Your root password";
 
     public static void main(String[] args) {
